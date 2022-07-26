@@ -1,0 +1,13 @@
+.chat {
+    height: 870px;
+    &__display {
+        height: 80%;
+    }
+    &__input {
+        margin-top: 30px;
+        &__send-button {
+            width: 12%;
+            border-radius: 30px;
+        }
+    }
+}

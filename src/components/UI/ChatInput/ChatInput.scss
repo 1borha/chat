@@ -1,0 +1,9 @@
+.chat-input {
+    width: 85%;
+    height: 60px;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    &::-webkit-scrollbar { 
+        display: none;
+    }
+}
